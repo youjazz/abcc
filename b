@@ -1,1 +1,1 @@
-[![](https://tinyurl.com/y6vou33v)](https://bit.ly/repokachu)
+[![](https://img.shields.io/badge/author-@KrauseFx-blue.svg?style=flat)](https://twitter.com/KrauseFx)
