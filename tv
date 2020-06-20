@@ -98,3 +98,9 @@ http://r16.ciclano.io:9039/site
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO KISS FM 102,1
 http://cloud2.cdnseguro.com:23538/;
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SÓ KAKARECOS DISCO
+http://sokakarecos.ddns.net:9000/disco128;
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SÓ KAKARECOS LIGHT
+http://sokakarecos.ddns.net:9005/light128/;
