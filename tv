@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO KIDS
-http://192.99.150.31:9431/;
+https://video-downloads.googleusercontent.com/AGQNM9KrB5GNz6fcQglQdrmFpAtmVvh3u8xFrKDEsewk6Ri20a14RHCVlPsTN011y3oOmeIdxIBNBsULGqTZ5tVB7ZwS-0L3Pcgx-eED1oJTrKFZLfMpCnM1k3bSf6KAIE4L58o0a6hEeH-4XR0X1kslZ51QGPh7t75cFTVNtYQ1Raw2x51BVg4sGeroAZBf37iHz-voteMB
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO MPB
 http://192.99.150.31:8775/;
