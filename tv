@@ -19,14 +19,14 @@ http://192.99.150.31:9019/;
 https://node-16.zeno.fm/favyqatpu0quv
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 2000
-http://177.124.130.10:9940/stream
+:9940/stream
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SERTANEJO
 http://192.99.150.31:9485/;
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO FUNK
 http://192.99.150.31:9089/;
-
+I'm
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ROCK CLÁSSICO
 http://192.99.150.31:9125/;
 
@@ -42,7 +42,129 @@ http://192.99.150.31:8241/;
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 80
 http://192.99.150.31:8697/;
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 90
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 90#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://raw.githubusercontent.com/novidadespikachu/btns/master/Imgs/ycgwmb3x.jpg" group-title="Filmes Séries",[I][B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhttps://i.imgur.com/JfvcNWz.png
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxSERVIDOR 3
+<layouttype>thumbnail</layouttype>
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/XXDQC6W.png" group-title="Filmes Séries",[I][B][COLOR yellow] Video De Intrução Para Torrents [COLOR lime][[COLOR blue] Click Aqui [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+https://www.gadrive.com/d/FYVRi&type=1
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/71breqg.png" group-title="Filmes Séries",[I][B][COLOR yellow] Channel Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+<externallink>https://canaisgratis.eu/</externallink>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
+https://t.me/addonpikachu
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO KIDS [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:9431/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO MPB [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:8775/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO BOSSA NOVA [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://177.124.130.10:9974/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO HIP-HOP [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:8721/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO FORRÓ [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:9019/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO PAGODE [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+https://node6.zeno.fm/favyqatpu0quv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 2000 [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://177.124.130.10:9940/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SERTANEJO [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:9485/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO FUNK [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:9089/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ROCK CLÁSSICO [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:9125/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO LOUNGE [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://177.124.130.10:9064/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ROBERTO CARLOS [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:9137/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 70 [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:8241/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 80 [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:8697/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 90 [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:8056/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SÓ FLASHBACK [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://stm41.srvstm.com:12648/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ROMÂNTICAS [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:8962/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO RAP NACIONAL
+http://192.99.150.31:8377/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ELETRÔNICA [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:9095/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO GOSPEL [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:9101/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO AXÉ
+http://192.99.150.31:8305/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO BREGA [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:9007/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO REGGAE [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:8715/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO TOP SERTANEJO [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO GAÚCHA FM / AM [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO HISTORINHA INFANTIL [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://192.99.150.31:8371/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO RICOS GOSPEL [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://server01.ouvir.radio.br:8070/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO GOSPEL FM [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://209.126.127.123:8885/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO LOGOS FM [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://centova6.ciclanohost.com.br:9452/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO PADRE CICERO FM 104,5
+http://stream.7br.com.br:10138/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SHALOM AM 690 [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://www.radioideal.net:8006/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SAUDADE FM 99,7 [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://r16.ciclano.io:9039/site
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO KISS FM 102,1 [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://cloud2.cdnseguro.com:23538/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SÓ KAKARECOS DISCO [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://sokakarecos.ddns.net:9000/disco128;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SÓ KAKARECOS LIGHT [COLOR yellow] Rádio Difusora[COLOR lime] Pikachu [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+http://sokakarecos.ddns.net:9005/light128/;
 http://192.99.150.31:8056/;
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SÓ FLASHBACK
