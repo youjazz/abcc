@@ -1,1 +1,75 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",Só Kakarecos Disco
+http://sokakarecos.ddns.net:9000/disco128;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",Só Kakarecos Light
+http://sokakarecos.ddns.net:9005/light128/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",Só Kakarecos Classic Rock
+http://sokakarecos.ddns.net:9030/rock128
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",Rádio Pop Rock do Brasil
 http://c4.radioboss.fm:8216/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",Rádio Jovem Pan (JP Hits)
+http://6d9a.webradio.upx.net.br:9023/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",Rádio Jovem Pan (JP 80)
+http://6d9a.webradio.upx.net.br:9059/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",Rádio Jovem Pan (JP Sertanejo)
+https://sc1s.cdn.upx.com:9049/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",Rádio Liberal FM (Belem)
+http://177.105.192.70:9750/stream/1/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",99 FM (Belem)
+https://player-ssl.kshost.com.br:8862/stream/1/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",Rádio Antena 1 (São Paulo)
+https://www.antena1.com.br/stream/stream/2;?type=mpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",Rádio Diário FM (Belem)
+https://player-ssl.kshost.com.br:8856/stream/1/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",A Rádio Rock (Sao Paulo)
+https://ice.fabricahost.com.br/89aradiorocksp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO MPB
+http://192.99.150.31:8775/;
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO ANOS 2000
+http://177.124.130.10:9940/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO SERTANEJO
+http://192.99.150.31:9485/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO FUNK
+http://192.99.150.31:9089/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO ROCK CLÁSSICO
+http://192.99.150.31:9125/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO LOUNGE
+http://177.124.130.10:9064/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO ANOS 70
+http://192.99.150.31:8241/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO ANOS 80
+http://192.99.150.31:8697/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO ANOS 90
+http://192.99.150.31:8056/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO SÓ FLASHBACK
+http://stm41.srvstm.com:12648/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO ROMÂNTICAS
+http://192.99.150.31:8962/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWH7XGW.png"",RÁDIO ELETRÔNICA
+http://192.99.150.31:9095/;
