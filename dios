@@ -1,43 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", Só Kakarecos Disco
-http://sokakarecos.ddns.net:9000/disco128;
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y2v68ec7" group-title="Radios", Só Kakarecos Disco
+http://sokakarecos.ddns.net:9000/disco128
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", Só Kakarecos Light
-http://sokakarecos.ddns.net:9005/light128/;
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y2v68ec7" group-title="Radios", Só Kakarecos Light
+http://sokakarecos.ddns.net:9005/light128/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", Só Kakarecos Classic Rock
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y2v68ec7" group-title="Radios", Só Kakarecos Classic Rock
 http://sokakarecos.ddns.net:9030/rock128
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", Rádio Pop Rock do Brasil
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y5gh7o83" group-title="Radios", Rádio Pop Rock do Brasil
 http://c4.radioboss.fm:8216/stream
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", Rádio Jovem Pan (JP Hits)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4sqadq5" group-title="Radios", Rádio Nova Brasil
+https://20823.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC.aac
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y3fxvu8p" group-title="Radios", Rádio Jovem Pan (JP Hits)
 http://6d9a.webradio.upx.net.br:9023/stream
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", Rádio Jovem Pan (JP 80)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y3ctad58" group-title="Radios", Rádio Jovem Pan (JP 80)
 http://6d9a.webradio.upx.net.br:9059/stream
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", Rádio Jovem Pan (JP Sertanejo)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6tj7oo3" group-title="Radios", Rádio Jovem Pan (JP Sertanejo)
 https://sc1s.cdn.upx.com:9049/stream
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", Rádio Liberal FM (Belem)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y5oz4awj" group-title="Radios", Rádio Liberal FM (Belem)
 http://177.105.192.70:9750/stream/1/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", 99 FM (Belem)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4wxghkn" group-title="Radios", 99 FM (Belem)
 https://player-ssl.kshost.com.br:8862/stream/1/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", Rádio Antena 1 (São Paulo)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y493dz3u" group-title="Radios", Rádio Antena 1 (São Paulo)
 https://www.antena1.com.br/stream/stream/2;?type=mpeg
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", Rádio Diário FM (Belem)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxa3kf7p" group-title="Radios", Rádio Diário FM (Belem)
 https://player-ssl.kshost.com.br:8856/stream/1/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", A Rádio Rock (Sao Paulo)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4ch8dl5" group-title="Radios", A Rádio Rock (Sao Paulo)
 https://ice.fabricahost.com.br/89aradiorocksp
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO MPB
 http://192.99.150.31:8775/;
-
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 2000
 http://177.124.130.10:9940/stream
