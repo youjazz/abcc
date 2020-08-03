@@ -44,6 +44,12 @@ https://ice.fabricahost.com.br/89aradiorocksp
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO MPB
 http://192.99.150.31:8775/;
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxmkkwe4" group-title="Radios", KISS Classical
+https://hazel.torontocast.com:2225/stream
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y4wfh7jz" group-title="Radios", Smooth Jazz 24/7
+https://ais-sa2.cdnstream1.com/b75154_128mp3
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 2000
 http://177.124.130.10:9940/stream
 
