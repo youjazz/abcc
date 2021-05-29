@@ -53,38 +53,8 @@ https://hazel.torontocast.com:2225/stream
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y4wfh7jz" group-title="Radios", Smooth Jazz 24/7
 https://ais-sa2.cdnstream1.com/b75154_128mp3
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 2000
-http://177.124.130.10:9940/stream
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2aj5bx6b" group-title="Radios", Studio Souto
+https://centova5.transmissaodigital.com:20040/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SERTANEJO
-http://192.99.150.31:9485/;
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO FUNK
-http://192.99.150.31:9089/;
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ROCK CLÁSSICO
-http://192.99.150.31:9125/;
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO LOUNGE
-http://177.124.130.10:9064/stream
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ROBERTO CARLOS
-http://192.99.150.31:9137/stream
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 70
-http://192.99.150.31:8241/;
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 80
-http://192.99.150.31:8697/;
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ANOS 90
-http://192.99.150.31:8056/;
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO SÓ FLASHBACK
-http://stm41.srvstm.com:12648/;
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ROMÂNTICAS
-http://192.99.150.31:8962/;
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO ELETRÔNICA
-http://192.99.150.31:9095/;
+#EXTINF:-1 tvg-logo="https://tinyurl.com/8tuxtv9h" group-title="Radios", Studio Souto
+http://143.208.11.100:8426/;stream.nsv
