@@ -58,3 +58,6 @@ https://centova5.transmissaodigital.com:20040/
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/8tuxtv9h" group-title="Radios", Studio Souto
 http://143.208.11.100:8426/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/8tuxtv9h" group-title="Radios", Costa del mar Sax radio
+https://radio4.cdm-radio.com:18024/stream-mp3-Smooth
