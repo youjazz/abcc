@@ -65,3 +65,17 @@ http://143.208.11.100:8426/;stream.nsv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/8tuxtv9h" group-title="Radios", Costa del mar Sax radio
 https://radio4.cdm-radio.com:18024/stream-mp3-Smooth
 
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s161521q.png" group-title="Radios", Radio Caprice Saxophone
+http://79.120.77.11:9011/;
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713q.png" group-title="Radios", 1.FM - Sax4Love
+https://strm112.1.fm/sax4ever_mobile_mp3
+
+#EXTINF:-1 tvg-logo="https://1jazz.ru/wp-content/uploads/2019/10/logo22-1.jpg" group-title="Radios", Sax4Ever (Sax)
+http://185.33.21.112:11217/;stream/;?icy=http
+
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a7/2018/01/17/o-cantor-frank-sinatra-1516217743700_v2_450x337.jpg" group-title="Radios", Frank Sinatra Radio
+http://94.23.159.187:9998/stream?type=http&nocache=60370
+
+#EXTINF:-1 tvg-logo="https://1jazz.ru/wp-content/uploads/2019/10/logo22-1.jpg" group-title="Radios", Digital Impulse - Blues Channel
+http://orion.shoutca.st:8990/stream
