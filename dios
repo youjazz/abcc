@@ -11,26 +11,26 @@ http://sokakarecos.ddns.net:9030/rock128
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y5gh7o83" group-title="Radios", Rádio Pop Rock do Brasil
 http://c4.radioboss.fm:8216/stream
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y4sqadq5" group-title="Radios", Rádio Nova Brasil (AJU)
-https://20823.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC.aac
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s170459/images/logod.png" group-title="Radios", Rádio Nova Brasil (AJU)
+https://24253.live.streamtheworld.com/NOVABRASIL_ARACAJU.mp3
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y63qqqwp" group-title="Radios", Rádio Cultura 670 AM (Sergipe)
 http://wz3.dnip.com.br/cultura670hd/cultura670hd.stream/chunklist_w118303218.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2w72srad" group-title="Radios", Jubileu FM
-https://player.srvaudio.com.br/player-ssl/11534
+https://stm25.srvaudio.com.br:11534/Jubileu FM
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y4tm3zzz" group-title="Radios", Rádio Evangelizar FM
-https://shout87.crossradio.com.br:18000/stream
+https://shout87.crossradio.com.br:18000/Evangelizar FM
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y3fxvu8p" group-title="Radios", Rádio Jovem Pan (JP Hits)
-http://6d9a.webradio.upx.net.br:9023/stream
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s17697/images/logod.png" group-title="Radios", ENERGY Nürnberg (Hits)
+https://edge61.streamonkey.net/energy-nuernberg/stream/mp3
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y3ctad58" group-title="Radios", Rádio Jovem Pan (JP 80)
-http://6d9a.webradio.upx.net.br:9059/stream
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s139152d.png" group-title="Radios", Rádio LOVETIMES
+https://c15.radioboss.fm:18152/stream
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y6tj7oo3" group-title="Radios", Rádio Jovem Pan (JP Sertanejo)
-https://sc1s.cdn.upx.com:9049/stream
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s264202/images/logod.jpg" group-title="Radios", Hunter.FM - Sertanejo
+https://live.hunter.fm/sertanejo_high
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y5oz4awj" group-title="Radios", Rádio Liberal FM (Belem)
 http://177.105.192.70:9750/stream/1/
@@ -44,11 +44,11 @@ https://www.antena1.com.br/stream/stream/2;?type=mpeg
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yxa3kf7p" group-title="Radios", Rádio Diário FM (Belem)
 https://player-ssl.kshost.com.br:8856/stream/1/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y4ch8dl5" group-title="Radios", A Rádio Rock (Sao Paulo)
-https://ice.fabricahost.com.br/89aradiorocksp
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s13606/images/logod.png" group-title="Radios", Radio Paradise (ROCK)
+https://stream-tx3.radioparadise.com/mp3-192
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wyn36o" group-title="Radios", RÁDIO MPB
-http://192.99.150.31:8775/;
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s304824/images/logod.jpg" group-title="Radios", Rádio Bossa Nova Brazil
+https://stream.streamgenial.stream/87eu2988rm0uv
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yxmkkwe4" group-title="Radios", KISS Classical
 https://hazel.torontocast.com:2225/stream
